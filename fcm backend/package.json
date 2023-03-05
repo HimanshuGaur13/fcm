@@ -1,0 +1,19 @@
+{
+  "name": "firebase-imp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fcm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon fcm.js"
+  },
+  "author": "\"Rohit Mehra\"",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "fcm-node": "^1.6.1",
+    "firebase": "^9.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
